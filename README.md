@@ -9,5 +9,5 @@ Technologies:
 - Font Awesome
 
 Instructions:
-1. Download "Project 2 - Personal Portfolio Webpage.html"
-2. Double-click the file.
+1. Download "Project 2 - Personal Portfolio Webpage.html".
+2. Double-click the file to open in a browser.
